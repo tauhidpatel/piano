@@ -10,7 +10,6 @@
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 The Online Piano, created using HTML, CSS, and JavaScript, is a virtual piano that allows users to play musical notes and create melodies online.
@@ -47,6 +46,3 @@ If you have ideas for improving the Online Piano or want to contribute new featu
 3. Make your changes and commit them with clear commit messages.
 4. Push your branch to your forked repository.
 5. Submit a pull request to the main repository, explaining the changes you've made and the purpose of your contribution.
-
-## License
-This project is licensed under the [MIT License](link-to-license). Feel free to use and modify the application as per the terms of the license.
