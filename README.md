@@ -1,6 +1,6 @@
 # Online Piano
 
-![Online Piano Demo](link-to-demo-gif.gif)
+![tauhid-piano](https://github.com/Tauhid-Patel/piano/assets/43630196/754f15c0-f378-4f07-845d-e5d8896983d5)
 
 ## Table of Contents
 - [Introduction](#introduction)
